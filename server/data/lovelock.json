@@ -1,0 +1,1591 @@
+{
+  "users": {
+    "_TgfrtZ3yAml": {
+      "id": "_TgfrtZ3yAml",
+      "authToken": "SHjpzGiwwdkp0CkzYgg690CH",
+      "name": "mertion",
+      "gender": "male",
+      "createdAt": "2026-04-07T08:35:06.503Z",
+      "updatedAt": "2026-04-07T08:35:33.260Z"
+    },
+    "0L78zY50cZLk": {
+      "id": "0L78zY50cZLk",
+      "authToken": "Ce9fg8uJ85iGjhRzBVeBO-EP",
+      "name": "dfsfsdfsd",
+      "gender": "female",
+      "createdAt": "2026-04-07T08:36:25.117Z",
+      "updatedAt": "2026-04-07T08:36:25.117Z"
+    },
+    "escob8pwjlR9": {
+      "id": "escob8pwjlR9",
+      "authToken": "OaGxsLDhnM2xve5hmxWbkVyE",
+      "name": "Meriton",
+      "gender": "male",
+      "createdAt": "2026-04-07T08:37:30.995Z",
+      "updatedAt": "2026-04-07T08:57:09.671Z"
+    },
+    "pcKhQEDEfCLd": {
+      "id": "pcKhQEDEfCLd",
+      "authToken": "vGoA7yWer-4vnflbYkeqbM4F",
+      "name": "EKBJCV",
+      "gender": "female",
+      "createdAt": "2026-04-07T08:37:48.202Z",
+      "updatedAt": "2026-04-07T08:37:48.202Z"
+    },
+    "-_ooGFfSzlKj": {
+      "id": "-_ooGFfSzlKj",
+      "authToken": "23oDC-9fFNwZ6-SZA3NS-FEa",
+      "name": "Ardina",
+      "gender": "female",
+      "createdAt": "2026-04-07T08:50:14.446Z",
+      "updatedAt": "2026-04-07T08:50:14.446Z"
+    },
+    "-FFw_W7NPgzU": {
+      "id": "-FFw_W7NPgzU",
+      "authToken": "FtYRdj4sgI5-9B_pxn-SHgND",
+      "name": "Meriton",
+      "gender": "male",
+      "createdAt": "2026-04-07T09:08:13.803Z",
+      "updatedAt": "2026-04-07T09:38:41.284Z"
+    },
+    "i3vfVcY0wVsx": {
+      "id": "i3vfVcY0wVsx",
+      "authToken": "YHO1omLySl2ogMpHMTQMX3U-",
+      "name": "sdfsadfsdf",
+      "gender": "female",
+      "createdAt": "2026-04-07T09:08:24.286Z",
+      "updatedAt": "2026-04-07T09:10:43.901Z"
+    },
+    "2Yr3JetgFpnQ": {
+      "id": "2Yr3JetgFpnQ",
+      "authToken": "IzIUHWREJZ18gZP_zRjnk54N",
+      "name": "Ardina",
+      "gender": "female",
+      "createdAt": "2026-04-07T09:27:21.332Z",
+      "updatedAt": "2026-04-07T09:27:21.332Z"
+    },
+    "6FbBvEsgQEz9": {
+      "id": "6FbBvEsgQEz9",
+      "authToken": "7nIOOp3W-MyXyYux_VVCScfF",
+      "name": "ardina",
+      "gender": "female",
+      "createdAt": "2026-04-07T09:36:12.689Z",
+      "updatedAt": "2026-04-07T09:36:12.689Z"
+    },
+    "lHim6IFu3NEO": {
+      "id": "lHim6IFu3NEO",
+      "authToken": "YLl7Em3COP4xMr_OFra0nD51",
+      "name": "Meriton",
+      "gender": "female",
+      "createdAt": "2026-04-07T10:07:55.713Z",
+      "updatedAt": "2026-04-07T10:10:40.219Z"
+    },
+    "Tr_yWOIw0Dva": {
+      "id": "Tr_yWOIw0Dva",
+      "authToken": "Rq3l7guc8a2Br2hmZ9kMwYhm",
+      "name": "Ardina",
+      "gender": "female",
+      "createdAt": "2026-04-07T10:08:16.128Z",
+      "updatedAt": "2026-04-07T10:08:16.128Z"
+    },
+    "1is1KEJdiGlO": {
+      "id": "1is1KEJdiGlO",
+      "authToken": "K9y23VWYrr5sBVvEqrCJ7H8Z",
+      "name": "Meriton",
+      "gender": "male",
+      "createdAt": "2026-04-07T11:13:27.973Z",
+      "updatedAt": "2026-04-07T11:13:27.973Z"
+    },
+    "dVwm7st4o2MK": {
+      "id": "dVwm7st4o2MK",
+      "authToken": "G-x2XKyyolnB8_ocn5vRImQD",
+      "name": "Ardina",
+      "gender": "female",
+      "createdAt": "2026-04-07T11:14:10.045Z",
+      "updatedAt": "2026-04-07T11:14:10.045Z"
+    },
+    "L5TPFNm37hnc": {
+      "id": "L5TPFNm37hnc",
+      "authToken": "lMtVcZwOupe5FqhW4X0dSdmG",
+      "name": "Meriton",
+      "gender": "male",
+      "createdAt": "2026-04-07T11:40:47.399Z",
+      "updatedAt": "2026-04-07T11:40:47.399Z"
+    },
+    "gga2b6OZuQ_G": {
+      "id": "gga2b6OZuQ_G",
+      "authToken": "6HdficmTxq_1akiZM8wpq0en",
+      "name": "Ardina",
+      "gender": "female",
+      "createdAt": "2026-04-07T11:41:02.677Z",
+      "updatedAt": "2026-04-07T11:41:02.677Z"
+    },
+    "dcg6CZu4m2X_": {
+      "id": "dcg6CZu4m2X_",
+      "authToken": "at5kVyh3IUEQwOMAz87POEp2",
+      "name": "Meriton",
+      "gender": "male",
+      "createdAt": "2026-04-07T12:32:49.217Z",
+      "updatedAt": "2026-04-07T12:32:49.217Z"
+    },
+    "z2jGGPOHhTJP": {
+      "id": "z2jGGPOHhTJP",
+      "authToken": "0upXTIT3wZSuVdHf0qZOXX6x",
+      "name": "Ardina",
+      "gender": "female",
+      "createdAt": "2026-04-07T12:32:58.161Z",
+      "updatedAt": "2026-04-07T12:32:58.161Z"
+    },
+    "umVs29_pqm2V": {
+      "id": "umVs29_pqm2V",
+      "authToken": "kdqY4LGulcN54ew7nWLyrRIv",
+      "name": "Ardina",
+      "gender": "female",
+      "createdAt": "2026-04-07T12:37:36.788Z",
+      "updatedAt": "2026-04-07T12:37:36.788Z"
+    },
+    "yL-RLNbYjhcf": {
+      "id": "yL-RLNbYjhcf",
+      "authToken": "Z5u2jLmzZqsuzZMsUHtrmqh7",
+      "name": "sadsadsad",
+      "gender": "female",
+      "createdAt": "2026-04-07T12:37:57.394Z",
+      "updatedAt": "2026-04-07T12:37:57.394Z"
+    },
+    "_d9pdsoh-LYC": {
+      "id": "_d9pdsoh-LYC",
+      "authToken": "DqtYwkck8bfFbDd0V7PK2_Gj",
+      "name": "Meriton",
+      "gender": "male",
+      "createdAt": "2026-04-07T12:38:00.317Z",
+      "updatedAt": "2026-04-07T15:05:42.507Z"
+    },
+    "HET1NGp2lXUg": {
+      "id": "HET1NGp2lXUg",
+      "authToken": "hQRVSMoSxg87rozA66HKd4u3",
+      "name": "asdsadsad",
+      "gender": "female",
+      "createdAt": "2026-04-07T12:51:35.309Z",
+      "updatedAt": "2026-04-07T12:51:35.309Z"
+    },
+    "M4wqrkXgt9UO": {
+      "id": "M4wqrkXgt9UO",
+      "authToken": "9vNBCw7tEktzNHAYXVxJk-Wr",
+      "name": "Ardina",
+      "gender": "female",
+      "createdAt": "2026-04-07T15:05:56.971Z",
+      "updatedAt": "2026-04-07T15:05:56.971Z"
+    }
+  },
+  "sessions": {
+    "TIb9ind4rtWL": {
+      "id": "TIb9ind4rtWL",
+      "inviteCode": "TRMJRZ",
+      "sessionType": "invite",
+      "status": "active",
+      "createdAt": "2026-04-07T08:36:25.118Z",
+      "updatedAt": "2026-04-07T08:36:25.118Z",
+      "endedAt": null
+    },
+    "d4zfcaJc2vtm": {
+      "id": "d4zfcaJc2vtm",
+      "inviteCode": "EKBJCV",
+      "sessionType": "invite",
+      "status": "expired",
+      "createdAt": "2026-04-07T08:37:55.336Z",
+      "updatedAt": "2026-04-07T08:39:24.682Z",
+      "endedAt": "2026-04-07T08:39:24.682Z"
+    },
+    "l0p8q2wnA71C": {
+      "id": "l0p8q2wnA71C",
+      "inviteCode": null,
+      "sessionType": "auto",
+      "status": "expired",
+      "createdAt": "2026-04-07T08:50:14.447Z",
+      "updatedAt": "2026-04-07T08:55:43.939Z",
+      "endedAt": "2026-04-07T08:55:43.939Z"
+    },
+    "9l6CVSVXL-qj": {
+      "id": "9l6CVSVXL-qj",
+      "inviteCode": null,
+      "sessionType": "auto",
+      "status": "left",
+      "createdAt": "2026-04-07T09:08:24.287Z",
+      "updatedAt": "2026-04-07T09:09:59.407Z",
+      "endedAt": "2026-04-07T09:09:59.407Z"
+    },
+    "L9vsXTQ8Dqos": {
+      "id": "L9vsXTQ8Dqos",
+      "inviteCode": null,
+      "sessionType": "auto",
+      "status": "expired",
+      "createdAt": "2026-04-07T09:10:43.902Z",
+      "updatedAt": "2026-04-07T09:11:31.031Z",
+      "endedAt": "2026-04-07T09:11:31.031Z"
+    },
+    "SlY2fomEwVyx": {
+      "id": "SlY2fomEwVyx",
+      "inviteCode": null,
+      "sessionType": "auto",
+      "status": "left",
+      "createdAt": "2026-04-07T09:36:18.695Z",
+      "updatedAt": "2026-04-07T09:37:48.838Z",
+      "endedAt": "2026-04-07T09:37:48.838Z"
+    },
+    "u1ka9HtGsdtq": {
+      "id": "u1ka9HtGsdtq",
+      "inviteCode": null,
+      "sessionType": "auto",
+      "status": "left",
+      "createdAt": "2026-04-07T10:08:16.129Z",
+      "updatedAt": "2026-04-07T10:10:10.325Z",
+      "endedAt": "2026-04-07T10:10:10.325Z"
+    },
+    "gByAtmnCguGV": {
+      "id": "gByAtmnCguGV",
+      "inviteCode": null,
+      "sessionType": "auto",
+      "status": "active",
+      "createdAt": "2026-04-07T11:14:10.046Z",
+      "updatedAt": "2026-04-07T11:14:10.046Z",
+      "endedAt": null
+    },
+    "vg4pkZfEppkZ": {
+      "id": "vg4pkZfEppkZ",
+      "inviteCode": null,
+      "sessionType": "auto",
+      "status": "expired",
+      "createdAt": "2026-04-07T11:41:02.678Z",
+      "updatedAt": "2026-04-07T11:44:23.798Z",
+      "endedAt": "2026-04-07T11:44:23.798Z"
+    },
+    "u-ppU84sJNOM": {
+      "id": "u-ppU84sJNOM",
+      "inviteCode": null,
+      "sessionType": "auto",
+      "status": "left",
+      "createdAt": "2026-04-07T12:32:58.162Z",
+      "updatedAt": "2026-04-07T12:35:45.503Z",
+      "endedAt": "2026-04-07T12:35:45.503Z"
+    },
+    "6KOvJ7vLBI1j": {
+      "id": "6KOvJ7vLBI1j",
+      "inviteCode": "HC2X0X",
+      "sessionType": "invite",
+      "status": "left",
+      "createdAt": "2026-04-07T12:38:00.318Z",
+      "updatedAt": "2026-04-07T12:39:27.709Z",
+      "endedAt": "2026-04-07T12:39:27.709Z"
+    },
+    "AOcjjObb6xEr": {
+      "id": "AOcjjObb6xEr",
+      "inviteCode": "FA00QL",
+      "sessionType": "invite",
+      "status": "expired",
+      "createdAt": "2026-04-07T12:51:35.310Z",
+      "updatedAt": "2026-04-07T12:53:07.935Z",
+      "endedAt": "2026-04-07T12:53:07.935Z"
+    },
+    "qbfxqHar0_f1": {
+      "id": "qbfxqHar0_f1",
+      "inviteCode": null,
+      "sessionType": "auto",
+      "status": "expired",
+      "createdAt": "2026-04-07T15:05:56.972Z",
+      "updatedAt": "2026-04-07T15:07:45.494Z",
+      "endedAt": "2026-04-07T15:07:45.494Z"
+    }
+  },
+  "questionBank": [
+    {
+      "id": "flirty-01",
+      "category": "flirty",
+      "prompt": "What tiny thing would instantly make this feel more like a date?"
+    },
+    {
+      "id": "flirty-02",
+      "category": "flirty",
+      "prompt": "If we met in person tonight, what would you secretly hope I noticed first?"
+    },
+    {
+      "id": "flirty-03",
+      "category": "flirty",
+      "prompt": "What's the most dangerous kind of smile someone can give you?"
+    },
+    {
+      "id": "flirty-04",
+      "category": "flirty",
+      "prompt": "Would you rather win the game or win my full attention for ten minutes?"
+    },
+    {
+      "id": "flirty-05",
+      "category": "flirty",
+      "prompt": "What's your favorite kind of accidental tension with someone new?"
+    },
+    {
+      "id": "flirty-06",
+      "category": "flirty",
+      "prompt": "What compliment works on you faster than it should?"
+    },
+    {
+      "id": "flirty-07",
+      "category": "flirty",
+      "prompt": "What's more attractive: confidence, humor, or dangerously good eye contact?"
+    },
+    {
+      "id": "flirty-08",
+      "category": "flirty",
+      "prompt": "What's one text from the right person that would ruin your focus today?"
+    },
+    {
+      "id": "flirty-09",
+      "category": "flirty",
+      "prompt": "What's your favorite excuse to stay talking to someone longer than planned?"
+    },
+    {
+      "id": "flirty-10",
+      "category": "flirty",
+      "prompt": "If I dared you to flirt badly on purpose, what line would you use?"
+    },
+    {
+      "id": "flirty-11",
+      "category": "flirty",
+      "prompt": "What kind of first touch always feels electric: hand, shoulder, or waist?"
+    },
+    {
+      "id": "flirty-12",
+      "category": "flirty",
+      "prompt": "What's the boldest thing someone could say that might actually work on you?"
+    },
+    {
+      "id": "flirty-13",
+      "category": "flirty",
+      "prompt": "Do you fall harder for mystery, warmth, or playful confidence?"
+    },
+    {
+      "id": "flirty-14",
+      "category": "flirty",
+      "prompt": "What's more dangerous on a date: chemistry, timing, or both?"
+    },
+    {
+      "id": "flirty-15",
+      "category": "flirty",
+      "prompt": "If a date goes perfectly, what's the moment you replay later?"
+    },
+    {
+      "id": "flirty-16",
+      "category": "flirty",
+      "prompt": "What's your version of an unmistakably flirty look?"
+    },
+    {
+      "id": "flirty-17",
+      "category": "flirty",
+      "prompt": "What would make you say, 'Okay, this person is trouble' in the best way?"
+    },
+    {
+      "id": "funny-01",
+      "category": "funny",
+      "prompt": "What's the least attractive way someone could try to impress you?"
+    },
+    {
+      "id": "funny-02",
+      "category": "funny",
+      "prompt": "If your flirting style were a kitchen appliance, what would it be?"
+    },
+    {
+      "id": "funny-03",
+      "category": "funny",
+      "prompt": "What harmless habit of yours could absolutely end a situationship?"
+    },
+    {
+      "id": "funny-04",
+      "category": "funny",
+      "prompt": "What's your most dramatic overreaction to having a crush?"
+    },
+    {
+      "id": "funny-05",
+      "category": "funny",
+      "prompt": "If we got stuck in a terrible date movie, what role would you play?"
+    },
+    {
+      "id": "funny-06",
+      "category": "funny",
+      "prompt": "What's a ridiculous green flag that still matters to you?"
+    },
+    {
+      "id": "funny-07",
+      "category": "funny",
+      "prompt": "What would your friends say is your most suspicious dating talent?"
+    },
+    {
+      "id": "funny-08",
+      "category": "funny",
+      "prompt": "What's the weirdest thing that could make a date unforgettable?"
+    },
+    {
+      "id": "funny-09",
+      "category": "funny",
+      "prompt": "If chemistry had a terrible sound effect, what would it be?"
+    },
+    {
+      "id": "funny-10",
+      "category": "funny",
+      "prompt": "What's your funniest self-sabotage move when you actually like someone?"
+    },
+    {
+      "id": "funny-11",
+      "category": "funny",
+      "prompt": "Which is scarier: a first kiss or asking where to eat?"
+    },
+    {
+      "id": "funny-12",
+      "category": "funny",
+      "prompt": "What innocent text can still send you into a full spiral?"
+    },
+    {
+      "id": "funny-13",
+      "category": "funny",
+      "prompt": "What's the pettiest reason you could reject a date?"
+    },
+    {
+      "id": "funny-14",
+      "category": "funny",
+      "prompt": "If butterflies were honest, what rude thing would they yell before a date?"
+    },
+    {
+      "id": "funny-15",
+      "category": "funny",
+      "prompt": "What's your biggest red flag when you're sleep-deprived?"
+    },
+    {
+      "id": "funny-16",
+      "category": "funny",
+      "prompt": "If attraction had a loading screen tip, what would it say?"
+    },
+    {
+      "id": "funny-17",
+      "category": "funny",
+      "prompt": "What's one chaotic thing you'd do just to make someone laugh?"
+    },
+    {
+      "id": "personality-01",
+      "category": "personality",
+      "prompt": "What kind of energy do you naturally bring into a room?"
+    },
+    {
+      "id": "personality-02",
+      "category": "personality",
+      "prompt": "What's something people misunderstand about you at first?"
+    },
+    {
+      "id": "personality-03",
+      "category": "personality",
+      "prompt": "What trait makes you trust someone faster?"
+    },
+    {
+      "id": "personality-04",
+      "category": "personality",
+      "prompt": "When do you feel most like yourself?"
+    },
+    {
+      "id": "personality-05",
+      "category": "personality",
+      "prompt": "What's a small ritual that instantly resets your mood?"
+    },
+    {
+      "id": "personality-06",
+      "category": "personality",
+      "prompt": "What do you protect the most: peace, freedom, or closeness?"
+    },
+    {
+      "id": "personality-07",
+      "category": "personality",
+      "prompt": "What kind of compliment actually stays with you?"
+    },
+    {
+      "id": "personality-08",
+      "category": "personality",
+      "prompt": "What's one thing you are quietly very proud of?"
+    },
+    {
+      "id": "personality-09",
+      "category": "personality",
+      "prompt": "What vibe are you trying to leave behind after someone meets you?"
+    },
+    {
+      "id": "personality-10",
+      "category": "personality",
+      "prompt": "What usually wins your attention first: kindness, wit, or confidence?"
+    },
+    {
+      "id": "personality-11",
+      "category": "personality",
+      "prompt": "What's one boundary that actually protects your softness?"
+    },
+    {
+      "id": "personality-12",
+      "category": "personality",
+      "prompt": "What kind of person makes you immediately feel safe?"
+    },
+    {
+      "id": "personality-13",
+      "category": "personality",
+      "prompt": "What's your most underrated quality in dating?"
+    },
+    {
+      "id": "personality-14",
+      "category": "personality",
+      "prompt": "What do you notice first about someone's character?"
+    },
+    {
+      "id": "personality-15",
+      "category": "personality",
+      "prompt": "When do you become unexpectedly brave?"
+    },
+    {
+      "id": "personality-16",
+      "category": "personality",
+      "prompt": "What's one thing you'd rather be felt for than praised for?"
+    },
+    {
+      "id": "personality-17",
+      "category": "personality",
+      "prompt": "Which version of you shows up when you really like someone?"
+    },
+    {
+      "id": "hypothetical-01",
+      "category": "hypothetical",
+      "prompt": "If we had to fake-date for a weekend, what's the first rule you'd invent?"
+    },
+    {
+      "id": "hypothetical-02",
+      "category": "hypothetical",
+      "prompt": "If you could pause time during one moment of a date, which moment would it be?"
+    },
+    {
+      "id": "hypothetical-03",
+      "category": "hypothetical",
+      "prompt": "If we were characters in a romance game, what bonus skill would you want?"
+    },
+    {
+      "id": "hypothetical-04",
+      "category": "hypothetical",
+      "prompt": "If your heart sent push notifications, what would yours say tonight?"
+    },
+    {
+      "id": "hypothetical-05",
+      "category": "hypothetical",
+      "prompt": "If you had to win someone over using only food, what would you choose?"
+    },
+    {
+      "id": "hypothetical-06",
+      "category": "hypothetical",
+      "prompt": "If we got one free plane ticket tomorrow, what kind of trip starts the story?"
+    },
+    {
+      "id": "hypothetical-07",
+      "category": "hypothetical",
+      "prompt": "If attraction had weather, what forecast describes you best?"
+    },
+    {
+      "id": "hypothetical-08",
+      "category": "hypothetical",
+      "prompt": "If you could read one safe thought after a first date, what would you want it to be?"
+    },
+    {
+      "id": "hypothetical-09",
+      "category": "hypothetical",
+      "prompt": "If your ideal relationship had a soundtrack, what kind of song opens it?"
+    },
+    {
+      "id": "hypothetical-10",
+      "category": "hypothetical",
+      "prompt": "If you had to describe chemistry without using the word chemistry, what would you say?"
+    },
+    {
+      "id": "hypothetical-11",
+      "category": "hypothetical",
+      "prompt": "If we were trapped in an elevator for one hour, what topic saves us?"
+    },
+    {
+      "id": "hypothetical-12",
+      "category": "hypothetical",
+      "prompt": "If your future partner had a signature move, what would you hope it is?"
+    },
+    {
+      "id": "hypothetical-13",
+      "category": "hypothetical",
+      "prompt": "If you could skip straight to one relationship milestone, which one feels exciting?"
+    },
+    {
+      "id": "hypothetical-14",
+      "category": "hypothetical",
+      "prompt": "If we had to communicate with only songs for a day, what vibe would you send first?"
+    },
+    {
+      "id": "hypothetical-15",
+      "category": "hypothetical",
+      "prompt": "If your dating life got a warning label, what would be printed on it?"
+    },
+    {
+      "id": "hypothetical-16",
+      "category": "hypothetical",
+      "prompt": "If we swapped lives for 24 hours, what would surprise me most about yours?"
+    },
+    {
+      "id": "hypothetical-17",
+      "category": "hypothetical",
+      "prompt": "If you could script the perfect accidental meeting, where would it happen?"
+    },
+    {
+      "id": "emotional-01",
+      "category": "light-emotional",
+      "prompt": "What's something gentle that instantly makes you feel seen?"
+    },
+    {
+      "id": "emotional-02",
+      "category": "light-emotional",
+      "prompt": "When do you feel the most cared for without anyone saying much?"
+    },
+    {
+      "id": "emotional-03",
+      "category": "light-emotional",
+      "prompt": "What's one thing that softens you faster than expected?"
+    },
+    {
+      "id": "emotional-04",
+      "category": "light-emotional",
+      "prompt": "What's a quiet sign that you're getting attached?"
+    },
+    {
+      "id": "emotional-05",
+      "category": "light-emotional",
+      "prompt": "What kind of honesty feels especially attractive to you?"
+    },
+    {
+      "id": "emotional-06",
+      "category": "light-emotional",
+      "prompt": "What's one thing you'd love someone to understand about your heart early?"
+    },
+    {
+      "id": "emotional-07",
+      "category": "light-emotional",
+      "prompt": "What helps you open up without feeling rushed?"
+    },
+    {
+      "id": "emotional-08",
+      "category": "light-emotional",
+      "prompt": "What's the difference between feeling noticed and feeling known to you?"
+    },
+    {
+      "id": "emotional-09",
+      "category": "light-emotional",
+      "prompt": "What's a small act that feels unexpectedly intimate?"
+    },
+    {
+      "id": "emotional-10",
+      "category": "light-emotional",
+      "prompt": "What makes a connection feel calm instead of confusing?"
+    },
+    {
+      "id": "emotional-11",
+      "category": "light-emotional",
+      "prompt": "What part of closeness takes you longest to trust?"
+    },
+    {
+      "id": "emotional-12",
+      "category": "light-emotional",
+      "prompt": "What does emotional safety look like in a simple moment?"
+    },
+    {
+      "id": "emotional-13",
+      "category": "light-emotional",
+      "prompt": "What tiny reassurance means more to you than people realize?"
+    },
+    {
+      "id": "emotional-14",
+      "category": "light-emotional",
+      "prompt": "What kind of consistency instantly earns points with you?"
+    },
+    {
+      "id": "emotional-15",
+      "category": "light-emotional",
+      "prompt": "What's something you hope love feels like, not just looks like?"
+    },
+    {
+      "id": "emotional-16",
+      "category": "light-emotional",
+      "prompt": "What's one soft truth about you that a good person should know?"
+    },
+    {
+      "id": "future-01",
+      "category": "future/date-vibes",
+      "prompt": "What's your ideal first date if the vibe is already dangerously good?"
+    },
+    {
+      "id": "future-02",
+      "category": "future/date-vibes",
+      "prompt": "What kind of plan says, 'I actually like spending time with you'?"
+    },
+    {
+      "id": "future-03",
+      "category": "future/date-vibes",
+      "prompt": "What's a place you'd save for someone with real potential?"
+    },
+    {
+      "id": "future-04",
+      "category": "future/date-vibes",
+      "prompt": "Which date has better odds: coffee and wandering or dinner and eye contact?"
+    },
+    {
+      "id": "future-05",
+      "category": "future/date-vibes",
+      "prompt": "What's a future memory you'd love to accidentally create with someone?"
+    },
+    {
+      "id": "future-06",
+      "category": "future/date-vibes",
+      "prompt": "What's your perfect length for a first date that goes too well?"
+    },
+    {
+      "id": "future-07",
+      "category": "future/date-vibes",
+      "prompt": "What's a tiny tradition you'd love to build with someone?"
+    },
+    {
+      "id": "future-08",
+      "category": "future/date-vibes",
+      "prompt": "What kind of weekend would quietly convince you to like someone more?"
+    },
+    {
+      "id": "future-09",
+      "category": "future/date-vibes",
+      "prompt": "What's your favorite sign that a second date should absolutely happen?"
+    },
+    {
+      "id": "future-10",
+      "category": "future/date-vibes",
+      "prompt": "What vibe should a great first night together have: cozy, electric, or funny?"
+    },
+    {
+      "id": "future-11",
+      "category": "future/date-vibes",
+      "prompt": "What's the most romantic ordinary thing two people can do together?"
+    },
+    {
+      "id": "future-12",
+      "category": "future/date-vibes",
+      "prompt": "What kind of invitation feels impossible to resist?"
+    },
+    {
+      "id": "future-13",
+      "category": "future/date-vibes",
+      "prompt": "What would a genuinely memorable date smell, sound, or feel like?"
+    },
+    {
+      "id": "future-14",
+      "category": "future/date-vibes",
+      "prompt": "What kind of future plan makes you feel chosen instead of casual?"
+    },
+    {
+      "id": "future-15",
+      "category": "future/date-vibes",
+      "prompt": "If sparks stay strong, what would you want round three to be?"
+    },
+    {
+      "id": "future-16",
+      "category": "future/date-vibes",
+      "prompt": "What's one date idea that feels cute, confident, and very you?"
+    }
+  ],
+  "interactionHistory": [
+    {
+      "id": "cOZkO64j39sm",
+      "sessionId": "TIb9ind4rtWL",
+      "roundNumber": 1,
+      "winnerPlayerId": "0L78zY50cZLk",
+      "loserPlayerId": "_TgfrtZ3yAml",
+      "result": "win",
+      "questionId": "emotional-02",
+      "questionText": "When do you feel the most cared for without anyone saying much?",
+      "questionCategory": "light-emotional",
+      "answerText": "dsfsdfsdf",
+      "responderPlayerId": "_TgfrtZ3yAml",
+      "createdAt": "2026-04-07T08:36:50.513Z"
+    },
+    {
+      "id": "HgkwUWscN1oM",
+      "sessionId": "d4zfcaJc2vtm",
+      "roundNumber": 1,
+      "winnerPlayerId": "escob8pwjlR9",
+      "loserPlayerId": "pcKhQEDEfCLd",
+      "result": "win",
+      "questionId": "hypothetical-01",
+      "questionText": "If we had to fake-date for a weekend, what's the first rule you'd invent?",
+      "questionCategory": "hypothetical",
+      "answerText": "fuck",
+      "responderPlayerId": "pcKhQEDEfCLd",
+      "createdAt": "2026-04-07T08:38:11.956Z"
+    },
+    {
+      "id": "Anz-RWgMVu39",
+      "sessionId": "d4zfcaJc2vtm",
+      "roundNumber": 2,
+      "winnerPlayerId": "pcKhQEDEfCLd",
+      "loserPlayerId": "escob8pwjlR9",
+      "result": "win",
+      "questionId": "funny-03",
+      "questionText": "What harmless habit of yours could absolutely end a situationship?",
+      "questionCategory": "funny",
+      "answerText": "sfdssdf",
+      "responderPlayerId": "escob8pwjlR9",
+      "createdAt": "2026-04-07T08:38:42.561Z"
+    },
+    {
+      "id": "8WrG_7sIlRE_",
+      "sessionId": "l0p8q2wnA71C",
+      "roundNumber": 1,
+      "winnerPlayerId": "-_ooGFfSzlKj",
+      "loserPlayerId": "escob8pwjlR9",
+      "result": "win",
+      "questionId": "future-08",
+      "questionText": "What kind of weekend would quietly convince you to like someone more?",
+      "questionCategory": "future/date-vibes",
+      "answerText": "Me dal ne nje park",
+      "responderPlayerId": "escob8pwjlR9",
+      "createdAt": "2026-04-07T08:50:49.401Z"
+    },
+    {
+      "id": "6ytue4Rf-TWp",
+      "sessionId": "l0p8q2wnA71C",
+      "roundNumber": 2,
+      "winnerPlayerId": null,
+      "loserPlayerId": null,
+      "result": "draw",
+      "questionId": "funny-04",
+      "questionText": "What's your most dramatic overreaction to having a crush?",
+      "questionCategory": "funny",
+      "answerText": null,
+      "responderPlayerId": null,
+      "createdAt": "2026-04-07T08:51:04.953Z"
+    },
+    {
+      "id": "pFao-GDj5FM3",
+      "sessionId": "l0p8q2wnA71C",
+      "roundNumber": 3,
+      "winnerPlayerId": "-_ooGFfSzlKj",
+      "loserPlayerId": "escob8pwjlR9",
+      "result": "win",
+      "questionId": "flirty-17",
+      "questionText": "What would make you say, 'Okay, this person is trouble' in the best way?",
+      "questionCategory": "flirty",
+      "answerText": "dsfsdfasdfdsaf",
+      "responderPlayerId": "escob8pwjlR9",
+      "createdAt": "2026-04-07T08:51:34.679Z"
+    },
+    {
+      "id": "LGT4TQFIMDQF",
+      "sessionId": "SlY2fomEwVyx",
+      "roundNumber": 1,
+      "winnerPlayerId": "-FFw_W7NPgzU",
+      "loserPlayerId": "6FbBvEsgQEz9",
+      "result": "win",
+      "questionId": "funny-13",
+      "questionText": "What's the pettiest reason you could reject a date?",
+      "questionCategory": "funny",
+      "answerText": "kur me thua qe me do",
+      "responderPlayerId": "6FbBvEsgQEz9",
+      "createdAt": "2026-04-07T09:36:43.870Z"
+    },
+    {
+      "id": "SGm9JeKTp-E2",
+      "sessionId": "SlY2fomEwVyx",
+      "roundNumber": 2,
+      "winnerPlayerId": "-FFw_W7NPgzU",
+      "loserPlayerId": "6FbBvEsgQEz9",
+      "result": "win",
+      "questionId": "hypothetical-04",
+      "questionText": "If your heart sent push notifications, what would yours say tonight?",
+      "questionCategory": "hypothetical",
+      "answerText": "sdadasdas",
+      "responderPlayerId": "6FbBvEsgQEz9",
+      "createdAt": "2026-04-07T09:37:08.196Z"
+    },
+    {
+      "id": "jKb7ctbs-4Gx",
+      "sessionId": "SlY2fomEwVyx",
+      "roundNumber": 3,
+      "winnerPlayerId": "-FFw_W7NPgzU",
+      "loserPlayerId": "6FbBvEsgQEz9",
+      "result": "win",
+      "questionId": "funny-12",
+      "questionText": "What innocent text can still send you into a full spiral?",
+      "questionCategory": "funny",
+      "answerText": "dsfsdafsdafdsaf",
+      "responderPlayerId": "6FbBvEsgQEz9",
+      "createdAt": "2026-04-07T09:37:35.889Z"
+    },
+    {
+      "id": "8NNIguHJaxCQ",
+      "sessionId": "u1ka9HtGsdtq",
+      "roundNumber": 1,
+      "winnerPlayerId": "Tr_yWOIw0Dva",
+      "loserPlayerId": "lHim6IFu3NEO",
+      "result": "win",
+      "questionId": "future-01",
+      "questionText": "What's your ideal first date if the vibe is already dangerously good?",
+      "questionCategory": "future/date-vibes",
+      "answerText": "asdsadsadsad sad sad sad",
+      "responderPlayerId": "lHim6IFu3NEO",
+      "createdAt": "2026-04-07T10:09:55.940Z"
+    },
+    {
+      "id": "IN6nUW_jnUkP",
+      "sessionId": "gByAtmnCguGV",
+      "roundNumber": 1,
+      "winnerPlayerId": "dVwm7st4o2MK",
+      "loserPlayerId": "1is1KEJdiGlO",
+      "result": "win",
+      "questionId": "flirty-16",
+      "questionText": "What's your version of an unmistakably flirty look?",
+      "questionCategory": "flirty",
+      "answerText": "AAA me dit tiiiii",
+      "responderPlayerId": "1is1KEJdiGlO",
+      "createdAt": "2026-04-07T11:14:37.600Z"
+    },
+    {
+      "id": "TtGNauhW1sKu",
+      "sessionId": "gByAtmnCguGV",
+      "roundNumber": 2,
+      "winnerPlayerId": "dVwm7st4o2MK",
+      "loserPlayerId": "1is1KEJdiGlO",
+      "result": "win",
+      "questionId": "hypothetical-05",
+      "questionText": "If you had to win someone over using only food, what would you choose?",
+      "questionCategory": "hypothetical",
+      "answerText": "Pizza",
+      "responderPlayerId": "1is1KEJdiGlO",
+      "createdAt": "2026-04-07T11:14:56.651Z"
+    },
+    {
+      "id": "khZgQR2itZFH",
+      "sessionId": "gByAtmnCguGV",
+      "roundNumber": 3,
+      "winnerPlayerId": "dVwm7st4o2MK",
+      "loserPlayerId": "1is1KEJdiGlO",
+      "result": "win",
+      "questionId": "future-09",
+      "questionText": "What's your favorite sign that a second date should absolutely happen?",
+      "questionCategory": "future/date-vibes",
+      "answerText": "fgfdgfdg",
+      "responderPlayerId": "1is1KEJdiGlO",
+      "createdAt": "2026-04-07T11:15:19.375Z"
+    },
+    {
+      "id": "2bFR3mwSBAhf",
+      "sessionId": "gByAtmnCguGV",
+      "roundNumber": 4,
+      "winnerPlayerId": "1is1KEJdiGlO",
+      "loserPlayerId": "dVwm7st4o2MK",
+      "result": "win",
+      "questionId": "personality-02",
+      "questionText": "What's something people misunderstand about you at first?",
+      "questionCategory": "personality",
+      "answerText": "dfgfdsgdsfgfdg",
+      "responderPlayerId": "dVwm7st4o2MK",
+      "createdAt": "2026-04-07T11:15:28.075Z"
+    },
+    {
+      "id": "grWsDJbvnsAZ",
+      "sessionId": "gByAtmnCguGV",
+      "roundNumber": 5,
+      "winnerPlayerId": "dVwm7st4o2MK",
+      "loserPlayerId": "1is1KEJdiGlO",
+      "result": "win",
+      "questionId": "future-06",
+      "questionText": "What's your perfect length for a first date that goes too well?",
+      "questionCategory": "future/date-vibes",
+      "answerText": "fdgsfdgfdgfds",
+      "responderPlayerId": "1is1KEJdiGlO",
+      "createdAt": "2026-04-07T11:15:39.835Z"
+    },
+    {
+      "id": "KVtCHGi4UcqS",
+      "sessionId": "gByAtmnCguGV",
+      "roundNumber": 6,
+      "winnerPlayerId": "dVwm7st4o2MK",
+      "loserPlayerId": "1is1KEJdiGlO",
+      "result": "win",
+      "questionId": "hypothetical-06",
+      "questionText": "If we got one free plane ticket tomorrow, what kind of trip starts the story?",
+      "questionCategory": "hypothetical",
+      "answerText": "dsfgfsdgdfgfd",
+      "responderPlayerId": "1is1KEJdiGlO",
+      "createdAt": "2026-04-07T11:15:49.004Z"
+    },
+    {
+      "id": "GJTWD0Elwym9",
+      "sessionId": "vg4pkZfEppkZ",
+      "roundNumber": 1,
+      "winnerPlayerId": "gga2b6OZuQ_G",
+      "loserPlayerId": "L5TPFNm37hnc",
+      "result": "win",
+      "questionId": "emotional-15",
+      "questionText": "What's something you hope love feels like, not just looks like?",
+      "questionCategory": "light-emotional",
+      "answerText": "Kur e puth nball",
+      "responderPlayerId": "L5TPFNm37hnc",
+      "createdAt": "2026-04-07T11:41:25.472Z"
+    },
+    {
+      "id": "vVwnEBLmHUlz",
+      "sessionId": "vg4pkZfEppkZ",
+      "roundNumber": 2,
+      "winnerPlayerId": "gga2b6OZuQ_G",
+      "loserPlayerId": "L5TPFNm37hnc",
+      "result": "win",
+      "questionId": "hypothetical-07",
+      "questionText": "If attraction had weather, what forecast describes you best?",
+      "questionCategory": "hypothetical",
+      "answerText": "sadsadsad",
+      "responderPlayerId": "L5TPFNm37hnc",
+      "createdAt": "2026-04-07T11:41:34.608Z"
+    },
+    {
+      "id": "MFDGgczJmWMg",
+      "sessionId": "vg4pkZfEppkZ",
+      "roundNumber": 3,
+      "winnerPlayerId": "gga2b6OZuQ_G",
+      "loserPlayerId": "L5TPFNm37hnc",
+      "result": "win",
+      "questionId": "funny-15",
+      "questionText": "What's your biggest red flag when you're sleep-deprived?",
+      "questionCategory": "funny",
+      "answerText": "sdafsdfdsfasfasd",
+      "responderPlayerId": "L5TPFNm37hnc",
+      "createdAt": "2026-04-07T11:41:43.188Z"
+    },
+    {
+      "id": "kYesLAlR02bt",
+      "sessionId": "u-ppU84sJNOM",
+      "roundNumber": 1,
+      "winnerPlayerId": "dcg6CZu4m2X_",
+      "loserPlayerId": "z2jGGPOHhTJP",
+      "result": "win",
+      "questionId": "personality-04",
+      "questionText": "When do you feel most like yourself?",
+      "questionCategory": "personality",
+      "answerText": "aaaaaaa me dit ti",
+      "responderPlayerId": "z2jGGPOHhTJP",
+      "createdAt": "2026-04-07T12:33:15.765Z"
+    },
+    {
+      "id": "6IgMC5e5Z5kZ",
+      "sessionId": "u-ppU84sJNOM",
+      "roundNumber": 2,
+      "winnerPlayerId": "dcg6CZu4m2X_",
+      "loserPlayerId": "z2jGGPOHhTJP",
+      "result": "win",
+      "questionId": "personality-07",
+      "questionText": "What kind of compliment actually stays with you?",
+      "questionCategory": "personality",
+      "answerText": "fdsfdsfsfsd",
+      "responderPlayerId": "z2jGGPOHhTJP",
+      "createdAt": "2026-04-07T12:33:25.352Z"
+    },
+    {
+      "id": "MZoDsOhTrzhB",
+      "sessionId": "u-ppU84sJNOM",
+      "roundNumber": 3,
+      "winnerPlayerId": "dcg6CZu4m2X_",
+      "loserPlayerId": "z2jGGPOHhTJP",
+      "result": "win",
+      "questionId": "funny-02",
+      "questionText": "If your flirting style were a kitchen appliance, what would it be?",
+      "questionCategory": "funny",
+      "answerText": "Sakic",
+      "responderPlayerId": "z2jGGPOHhTJP",
+      "createdAt": "2026-04-07T12:33:48.353Z"
+    },
+    {
+      "id": "p3hIYqq0cfU1",
+      "sessionId": "u-ppU84sJNOM",
+      "roundNumber": 4,
+      "winnerPlayerId": "dcg6CZu4m2X_",
+      "loserPlayerId": "z2jGGPOHhTJP",
+      "result": "win",
+      "questionId": "flirty-12",
+      "questionText": "What's the boldest thing someone could say that might actually work on you?",
+      "questionCategory": "flirty",
+      "answerText": "dfgsdfgsfdg",
+      "responderPlayerId": "z2jGGPOHhTJP",
+      "createdAt": "2026-04-07T12:34:14.775Z"
+    },
+    {
+      "id": "yBmICT4aMs2Q",
+      "sessionId": "u-ppU84sJNOM",
+      "roundNumber": 5,
+      "winnerPlayerId": "z2jGGPOHhTJP",
+      "loserPlayerId": "dcg6CZu4m2X_",
+      "result": "win",
+      "questionId": "future-14",
+      "questionText": "What kind of future plan makes you feel chosen instead of casual?",
+      "questionCategory": "future/date-vibes",
+      "answerText": "fsfsdgfdsgfdg",
+      "responderPlayerId": "dcg6CZu4m2X_",
+      "createdAt": "2026-04-07T12:34:21.895Z"
+    },
+    {
+      "id": "fBXUWq5WIiY3",
+      "sessionId": "u-ppU84sJNOM",
+      "roundNumber": 6,
+      "winnerPlayerId": "z2jGGPOHhTJP",
+      "loserPlayerId": "dcg6CZu4m2X_",
+      "result": "win",
+      "questionId": "emotional-10",
+      "questionText": "What makes a connection feel calm instead of confusing?",
+      "questionCategory": "light-emotional",
+      "answerText": "sdfgfsdgfdsgsfdgfd",
+      "responderPlayerId": "dcg6CZu4m2X_",
+      "createdAt": "2026-04-07T12:34:31.244Z"
+    },
+    {
+      "id": "0BsgSFIwZz4w",
+      "sessionId": "6KOvJ7vLBI1j",
+      "roundNumber": 1,
+      "winnerPlayerId": "umVs29_pqm2V",
+      "loserPlayerId": "_d9pdsoh-LYC",
+      "result": "win",
+      "questionId": "flirty-03",
+      "questionText": "What's the most dangerous kind of smile someone can give you?",
+      "questionCategory": "flirty",
+      "answerText": "vxcvxcvzxc",
+      "responderPlayerId": "_d9pdsoh-LYC",
+      "createdAt": "2026-04-07T12:38:14.409Z"
+    },
+    {
+      "id": "E-KJa45P7vZp",
+      "sessionId": "AOcjjObb6xEr",
+      "roundNumber": 1,
+      "winnerPlayerId": "HET1NGp2lXUg",
+      "loserPlayerId": "_d9pdsoh-LYC",
+      "result": "win",
+      "questionId": "flirty-11",
+      "questionText": "What kind of first touch always feels electric: hand, shoulder, or waist?",
+      "questionCategory": "flirty",
+      "answerText": "sadasdasdasd",
+      "responderPlayerId": "_d9pdsoh-LYC",
+      "createdAt": "2026-04-07T12:51:46.025Z"
+    },
+    {
+      "id": "kN9BxbiPNh8b",
+      "sessionId": "qbfxqHar0_f1",
+      "roundNumber": 1,
+      "winnerPlayerId": "_d9pdsoh-LYC",
+      "loserPlayerId": "M4wqrkXgt9UO",
+      "result": "win",
+      "questionId": "flirty-03",
+      "questionText": "What's the most dangerous kind of smile someone can give you?",
+      "questionCategory": "flirty",
+      "answerText": "dfsdfsdfsd",
+      "responderPlayerId": "M4wqrkXgt9UO",
+      "createdAt": "2026-04-07T15:06:15.568Z"
+    },
+    {
+      "id": "OVStuTVDNLv6",
+      "sessionId": "qbfxqHar0_f1",
+      "roundNumber": 2,
+      "winnerPlayerId": "_d9pdsoh-LYC",
+      "loserPlayerId": "M4wqrkXgt9UO",
+      "result": "win",
+      "questionId": "personality-14",
+      "questionText": "What do you notice first about someone's character?",
+      "questionCategory": "personality",
+      "answerText": "sadfsadfsafasdfasdf",
+      "responderPlayerId": "M4wqrkXgt9UO",
+      "createdAt": "2026-04-07T15:06:24.462Z"
+    },
+    {
+      "id": "VsIW5fxDgr9w",
+      "sessionId": "qbfxqHar0_f1",
+      "roundNumber": 3,
+      "winnerPlayerId": "_d9pdsoh-LYC",
+      "loserPlayerId": "M4wqrkXgt9UO",
+      "result": "win",
+      "questionId": "hypothetical-15",
+      "questionText": "If your dating life got a warning label, what would be printed on it?",
+      "questionCategory": "hypothetical",
+      "answerText": "sadfsadfsdafsd",
+      "responderPlayerId": "M4wqrkXgt9UO",
+      "createdAt": "2026-04-07T15:06:39.157Z"
+    },
+    {
+      "id": "4I06UCHRDhq2",
+      "sessionId": "qbfxqHar0_f1",
+      "roundNumber": 4,
+      "winnerPlayerId": "_d9pdsoh-LYC",
+      "loserPlayerId": "M4wqrkXgt9UO",
+      "result": "win",
+      "questionId": "personality-09",
+      "questionText": "What vibe are you trying to leave behind after someone meets you?",
+      "questionCategory": "personality",
+      "answerText": "dsfafsadfsadf",
+      "responderPlayerId": "M4wqrkXgt9UO",
+      "createdAt": "2026-04-07T15:06:58.172Z"
+    }
+  ],
+  "answers": [
+    {
+      "id": "Bk0QHMuaqZgl",
+      "interactionId": "cOZkO64j39sm",
+      "sessionId": "TIb9ind4rtWL",
+      "responderPlayerId": "_TgfrtZ3yAml",
+      "questionId": "emotional-02",
+      "answerText": "dsfsdfsdf",
+      "createdAt": "2026-04-07T08:36:50.513Z"
+    },
+    {
+      "id": "Xj66BQP9K6Jw",
+      "interactionId": "HgkwUWscN1oM",
+      "sessionId": "d4zfcaJc2vtm",
+      "responderPlayerId": "pcKhQEDEfCLd",
+      "questionId": "hypothetical-01",
+      "answerText": "fuck",
+      "createdAt": "2026-04-07T08:38:11.956Z"
+    },
+    {
+      "id": "_VLT5vprpY-V",
+      "interactionId": "Anz-RWgMVu39",
+      "sessionId": "d4zfcaJc2vtm",
+      "responderPlayerId": "escob8pwjlR9",
+      "questionId": "funny-03",
+      "answerText": "sfdssdf",
+      "createdAt": "2026-04-07T08:38:42.561Z"
+    },
+    {
+      "id": "BlHYNyFrnAJQ",
+      "interactionId": "8WrG_7sIlRE_",
+      "sessionId": "l0p8q2wnA71C",
+      "responderPlayerId": "escob8pwjlR9",
+      "questionId": "future-08",
+      "answerText": "Me dal ne nje park",
+      "createdAt": "2026-04-07T08:50:49.401Z"
+    },
+    {
+      "id": "ATNETnCn9eLk",
+      "interactionId": "pFao-GDj5FM3",
+      "sessionId": "l0p8q2wnA71C",
+      "responderPlayerId": "escob8pwjlR9",
+      "questionId": "flirty-17",
+      "answerText": "dsfsdfasdfdsaf",
+      "createdAt": "2026-04-07T08:51:34.679Z"
+    },
+    {
+      "id": "-pe2wfBXH37J",
+      "interactionId": "LGT4TQFIMDQF",
+      "sessionId": "SlY2fomEwVyx",
+      "responderPlayerId": "6FbBvEsgQEz9",
+      "questionId": "funny-13",
+      "answerText": "kur me thua qe me do",
+      "createdAt": "2026-04-07T09:36:43.870Z"
+    },
+    {
+      "id": "K1yddKFeeW7j",
+      "interactionId": "SGm9JeKTp-E2",
+      "sessionId": "SlY2fomEwVyx",
+      "responderPlayerId": "6FbBvEsgQEz9",
+      "questionId": "hypothetical-04",
+      "answerText": "sdadasdas",
+      "createdAt": "2026-04-07T09:37:08.196Z"
+    },
+    {
+      "id": "8m7DX1FZZ0gL",
+      "interactionId": "jKb7ctbs-4Gx",
+      "sessionId": "SlY2fomEwVyx",
+      "responderPlayerId": "6FbBvEsgQEz9",
+      "questionId": "funny-12",
+      "answerText": "dsfsdafsdafdsaf",
+      "createdAt": "2026-04-07T09:37:35.889Z"
+    },
+    {
+      "id": "PaUQt0I0V4nP",
+      "interactionId": "8NNIguHJaxCQ",
+      "sessionId": "u1ka9HtGsdtq",
+      "responderPlayerId": "lHim6IFu3NEO",
+      "questionId": "future-01",
+      "answerText": "asdsadsadsad sad sad sad",
+      "createdAt": "2026-04-07T10:09:55.940Z"
+    },
+    {
+      "id": "Oh7a56ZYnNfD",
+      "interactionId": "IN6nUW_jnUkP",
+      "sessionId": "gByAtmnCguGV",
+      "responderPlayerId": "1is1KEJdiGlO",
+      "questionId": "flirty-16",
+      "answerText": "AAA me dit tiiiii",
+      "createdAt": "2026-04-07T11:14:37.600Z"
+    },
+    {
+      "id": "XceBKHMhEcuD",
+      "interactionId": "TtGNauhW1sKu",
+      "sessionId": "gByAtmnCguGV",
+      "responderPlayerId": "1is1KEJdiGlO",
+      "questionId": "hypothetical-05",
+      "answerText": "Pizza",
+      "createdAt": "2026-04-07T11:14:56.651Z"
+    },
+    {
+      "id": "tZwx0lBdZAsn",
+      "interactionId": "khZgQR2itZFH",
+      "sessionId": "gByAtmnCguGV",
+      "responderPlayerId": "1is1KEJdiGlO",
+      "questionId": "future-09",
+      "answerText": "fgfdgfdg",
+      "createdAt": "2026-04-07T11:15:19.375Z"
+    },
+    {
+      "id": "JPWIT4TWAEPZ",
+      "interactionId": "2bFR3mwSBAhf",
+      "sessionId": "gByAtmnCguGV",
+      "responderPlayerId": "dVwm7st4o2MK",
+      "questionId": "personality-02",
+      "answerText": "dfgfdsgdsfgfdg",
+      "createdAt": "2026-04-07T11:15:28.075Z"
+    },
+    {
+      "id": "yt2iDG5lYY_Z",
+      "interactionId": "grWsDJbvnsAZ",
+      "sessionId": "gByAtmnCguGV",
+      "responderPlayerId": "1is1KEJdiGlO",
+      "questionId": "future-06",
+      "answerText": "fdgsfdgfdgfds",
+      "createdAt": "2026-04-07T11:15:39.835Z"
+    },
+    {
+      "id": "C7UXdLPInwwG",
+      "interactionId": "KVtCHGi4UcqS",
+      "sessionId": "gByAtmnCguGV",
+      "responderPlayerId": "1is1KEJdiGlO",
+      "questionId": "hypothetical-06",
+      "answerText": "dsfgfsdgdfgfd",
+      "createdAt": "2026-04-07T11:15:49.004Z"
+    },
+    {
+      "id": "uvUL-4vSFFse",
+      "interactionId": "GJTWD0Elwym9",
+      "sessionId": "vg4pkZfEppkZ",
+      "responderPlayerId": "L5TPFNm37hnc",
+      "questionId": "emotional-15",
+      "answerText": "Kur e puth nball",
+      "createdAt": "2026-04-07T11:41:25.472Z"
+    },
+    {
+      "id": "cD3Ud5cGkDdT",
+      "interactionId": "vVwnEBLmHUlz",
+      "sessionId": "vg4pkZfEppkZ",
+      "responderPlayerId": "L5TPFNm37hnc",
+      "questionId": "hypothetical-07",
+      "answerText": "sadsadsad",
+      "createdAt": "2026-04-07T11:41:34.608Z"
+    },
+    {
+      "id": "3zr3eTiEaHYz",
+      "interactionId": "MFDGgczJmWMg",
+      "sessionId": "vg4pkZfEppkZ",
+      "responderPlayerId": "L5TPFNm37hnc",
+      "questionId": "funny-15",
+      "answerText": "sdafsdfdsfasfasd",
+      "createdAt": "2026-04-07T11:41:43.188Z"
+    },
+    {
+      "id": "jH5mWe7iWSKu",
+      "interactionId": "kYesLAlR02bt",
+      "sessionId": "u-ppU84sJNOM",
+      "responderPlayerId": "z2jGGPOHhTJP",
+      "questionId": "personality-04",
+      "answerText": "aaaaaaa me dit ti",
+      "createdAt": "2026-04-07T12:33:15.765Z"
+    },
+    {
+      "id": "XS7nSOsIQOKq",
+      "interactionId": "6IgMC5e5Z5kZ",
+      "sessionId": "u-ppU84sJNOM",
+      "responderPlayerId": "z2jGGPOHhTJP",
+      "questionId": "personality-07",
+      "answerText": "fdsfdsfsfsd",
+      "createdAt": "2026-04-07T12:33:25.352Z"
+    },
+    {
+      "id": "n_VobNR5z5AO",
+      "interactionId": "MZoDsOhTrzhB",
+      "sessionId": "u-ppU84sJNOM",
+      "responderPlayerId": "z2jGGPOHhTJP",
+      "questionId": "funny-02",
+      "answerText": "Sakic",
+      "createdAt": "2026-04-07T12:33:48.353Z"
+    },
+    {
+      "id": "ginsG-o52UHF",
+      "interactionId": "p3hIYqq0cfU1",
+      "sessionId": "u-ppU84sJNOM",
+      "responderPlayerId": "z2jGGPOHhTJP",
+      "questionId": "flirty-12",
+      "answerText": "dfgsdfgsfdg",
+      "createdAt": "2026-04-07T12:34:14.775Z"
+    },
+    {
+      "id": "Pe_X2pmEMxqu",
+      "interactionId": "yBmICT4aMs2Q",
+      "sessionId": "u-ppU84sJNOM",
+      "responderPlayerId": "dcg6CZu4m2X_",
+      "questionId": "future-14",
+      "answerText": "fsfsdgfdsgfdg",
+      "createdAt": "2026-04-07T12:34:21.895Z"
+    },
+    {
+      "id": "eIkN5vJrvPu8",
+      "interactionId": "fBXUWq5WIiY3",
+      "sessionId": "u-ppU84sJNOM",
+      "responderPlayerId": "dcg6CZu4m2X_",
+      "questionId": "emotional-10",
+      "answerText": "sdfgfsdgfdsgsfdgfd",
+      "createdAt": "2026-04-07T12:34:31.244Z"
+    },
+    {
+      "id": "ONp9PHsa3xMg",
+      "interactionId": "0BsgSFIwZz4w",
+      "sessionId": "6KOvJ7vLBI1j",
+      "responderPlayerId": "_d9pdsoh-LYC",
+      "questionId": "flirty-03",
+      "answerText": "vxcvxcvzxc",
+      "createdAt": "2026-04-07T12:38:14.409Z"
+    },
+    {
+      "id": "jycMpaiR6Its",
+      "interactionId": "E-KJa45P7vZp",
+      "sessionId": "AOcjjObb6xEr",
+      "responderPlayerId": "_d9pdsoh-LYC",
+      "questionId": "flirty-11",
+      "answerText": "sadasdasdasd",
+      "createdAt": "2026-04-07T12:51:46.025Z"
+    },
+    {
+      "id": "tIqOgmJetEyx",
+      "interactionId": "kN9BxbiPNh8b",
+      "sessionId": "qbfxqHar0_f1",
+      "responderPlayerId": "M4wqrkXgt9UO",
+      "questionId": "flirty-03",
+      "answerText": "dfsdfsdfsd",
+      "createdAt": "2026-04-07T15:06:15.568Z"
+    },
+    {
+      "id": "GXgqloHM-fz7",
+      "interactionId": "OVStuTVDNLv6",
+      "sessionId": "qbfxqHar0_f1",
+      "responderPlayerId": "M4wqrkXgt9UO",
+      "questionId": "personality-14",
+      "answerText": "sadfsadfsafasdfasdf",
+      "createdAt": "2026-04-07T15:06:24.462Z"
+    },
+    {
+      "id": "WIJZeOe6IiCO",
+      "interactionId": "VsIW5fxDgr9w",
+      "sessionId": "qbfxqHar0_f1",
+      "responderPlayerId": "M4wqrkXgt9UO",
+      "questionId": "hypothetical-15",
+      "answerText": "sadfsadfsdafsd",
+      "createdAt": "2026-04-07T15:06:39.157Z"
+    },
+    {
+      "id": "yE4HfSQWSAxN",
+      "interactionId": "4I06UCHRDhq2",
+      "sessionId": "qbfxqHar0_f1",
+      "responderPlayerId": "M4wqrkXgt9UO",
+      "questionId": "personality-09",
+      "answerText": "dsfafsadfsadf",
+      "createdAt": "2026-04-07T15:06:58.172Z"
+    }
+  ],
+  "chatMessages": [
+    {
+      "id": "L-KeRLzeMl3k",
+      "sessionId": "d4zfcaJc2vtm",
+      "playerId": "escob8pwjlR9",
+      "content": "dsfsdfsdfsdfsdfsd",
+      "stage": 2,
+      "createdAt": "2026-04-07T08:38:51.898Z"
+    },
+    {
+      "id": "7YtRByvZy12D",
+      "sessionId": "d4zfcaJc2vtm",
+      "playerId": "escob8pwjlR9",
+      "content": "dfsdfsdf",
+      "stage": 2,
+      "createdAt": "2026-04-07T08:38:54.588Z"
+    },
+    {
+      "id": "WTPM45frCtCY",
+      "sessionId": "SlY2fomEwVyx",
+      "playerId": "-FFw_W7NPgzU",
+      "content": "sadfdsafsdfsdafsdfsda",
+      "stage": 2,
+      "createdAt": "2026-04-07T09:37:17.909Z"
+    },
+    {
+      "id": "48bRcv_j7P4k",
+      "sessionId": "SlY2fomEwVyx",
+      "playerId": "6FbBvEsgQEz9",
+      "content": "sdafsdafsdafsadfsdfsa",
+      "stage": 2,
+      "createdAt": "2026-04-07T09:37:24.065Z"
+    },
+    {
+      "id": "XmOWnWXexzj2",
+      "sessionId": "gByAtmnCguGV",
+      "playerId": "dVwm7st4o2MK",
+      "content": "sfdgfdsgfdsgfsgfdsgfgfd f",
+      "stage": "unlocked",
+      "createdAt": "2026-04-07T11:16:05.293Z"
+    },
+    {
+      "id": "SnZKWH1SNhpS",
+      "sessionId": "vg4pkZfEppkZ",
+      "playerId": "gga2b6OZuQ_G",
+      "content": "sadsadsadsadsadsadsadsads",
+      "stage": "unlocked",
+      "createdAt": "2026-04-07T11:42:43.588Z"
+    },
+    {
+      "id": "fwwuPkE0h9u-",
+      "sessionId": "vg4pkZfEppkZ",
+      "playerId": "gga2b6OZuQ_G",
+      "content": "sadsadsadsadsad",
+      "stage": "unlocked",
+      "createdAt": "2026-04-07T11:42:54.812Z"
+    },
+    {
+      "id": "U0Vro2hWvSPA",
+      "sessionId": "u-ppU84sJNOM",
+      "playerId": "dcg6CZu4m2X_",
+      "content": "hejjjj a ma jep numrin?",
+      "stage": "unlocked",
+      "createdAt": "2026-04-07T12:34:00.654Z"
+    },
+    {
+      "id": "bcz3GjHZnSLO",
+      "sessionId": "u-ppU84sJNOM",
+      "playerId": "dcg6CZu4m2X_",
+      "content": "dsfgfdgfdsg",
+      "stage": "unlocked",
+      "createdAt": "2026-04-07T12:34:36.308Z"
+    },
+    {
+      "id": "Oy01gGIaf4rj",
+      "sessionId": "qbfxqHar0_f1",
+      "playerId": "_d9pdsoh-LYC",
+      "content": "A po ma jep numrin tash?",
+      "stage": "unlocked",
+      "createdAt": "2026-04-07T15:06:46.752Z"
+    }
+  ]
+}
