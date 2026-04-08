@@ -128,7 +128,7 @@ function App() {
   const [toasts, setToasts] = useState([]);
   const [entryForm, setEntryForm] = useState({
     name: "",
-    gender: "female",
+    gender: "",
     inviteCode: prefilledCode
   });
   const [inviteCodeInput, setInviteCodeInput] = useState(prefilledCode);
@@ -270,6 +270,11 @@ function App() {
 
     if (!entryForm.name.trim()) {
       pushToast("Add your name before the heart hunt begins.", "warning");
+      return;
+    }
+
+    if (!entryForm.gender) {
+      pushToast("Pick woman or man first.", "warning");
       return;
     }
 

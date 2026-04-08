@@ -23,31 +23,44 @@ html,
 body,
 #root {
   min-height: 100%;
+  min-height: 100svh;
+  min-height: 100dvh;
 }
 
 body {
   margin: 0;
   font-family: "Plus Jakarta Sans", system-ui, sans-serif;
+  min-height: 100vh;
+  min-height: 100svh;
+  min-height: 100dvh;
   background:
     radial-gradient(circle at top left, rgba(255, 255, 255, 0.54), transparent 24%),
     radial-gradient(circle at bottom right, rgba(243, 186, 191, 0.14), transparent 22%),
     var(--paper-bg);
   color: var(--ink);
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 button,
 input,
 textarea {
   font: inherit;
+  -webkit-appearance: none;
+  appearance: none;
 }
 
 button {
   cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
 
 .app-shell {
   position: relative;
   min-height: 100vh;
+  min-height: 100svh;
+  min-height: 100dvh;
   overflow: hidden;
 }
 
@@ -56,11 +69,13 @@ button {
   z-index: 2;
   width: min(1160px, calc(100vw - 2rem));
   margin: 0 auto;
-  padding: 1.6rem 0 3rem;
+  padding: 1.6rem 0 calc(1rem + env(safe-area-inset-bottom, 0px));
 }
 
 .screen {
   min-height: calc(100vh - 4rem);
+  min-height: calc(100svh - 4rem);
+  min-height: calc(100dvh - 4rem);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1451,6 +1466,8 @@ button {
 .modal-card {
   width: min(520px, 100%);
   padding: 1.3rem;
+  max-height: min(92vh, calc(100svh - 2rem), calc(100dvh - 2rem));
+  overflow: auto;
 }
 
 .invite-modal {
@@ -1806,14 +1823,15 @@ button {
 @media (max-width: 760px) {
   .app-frame {
     width: min(100vw - 1rem, 100%);
-    padding-top: 1rem;
+    padding-top: 0.65rem;
+    padding-bottom: calc(0.75rem + env(safe-area-inset-bottom, 0px));
   }
 
   .hero-card,
   .panel,
   .modal-card {
-    padding: 1.15rem;
-    border-radius: 22px;
+    padding: 0.95rem;
+    border-radius: 20px;
   }
 
   .entry-sheet,
@@ -1821,24 +1839,129 @@ button {
     transform: none;
   }
 
+  .screen {
+    min-height: calc(100svh - 1.4rem);
+    min-height: calc(100dvh - 1.4rem);
+  }
+
+  .screen--game {
+    align-items: center;
+  }
+
+  .entry-minimal,
+  .waiting-sheet--minimal,
+  .game-paper-layout--solo {
+    width: min(100%, 25rem);
+  }
+
+  .entry-minimal {
+    gap: 0.85rem;
+  }
+
+  .entry-minimal h1 {
+    font-size: clamp(3.35rem, 16vw, 4.65rem);
+  }
+
+  .paper-field--entry input {
+    padding-top: 0.8rem;
+    padding-bottom: 0.75rem;
+  }
+
   .modal-card-grid {
     grid-template-columns: 1fr;
   }
 
   .chat-form__footer,
-  .board-sheet__top,
   .board-bottom-row {
     flex-direction: column;
     align-items: flex-start;
   }
 
+  .board-sheet {
+    gap: 0.65rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.25rem;
+  }
+
+  .board-sheet__top {
+    align-items: flex-start;
+    gap: 0.7rem;
+    flex-wrap: nowrap;
+  }
+
+  .board-sheet__top > :first-child {
+    min-width: 0;
+  }
+
+  .leave-cluster {
+    margin-left: auto;
+    width: auto;
+    justify-items: end;
+    align-self: flex-start;
+  }
+
+  .leave-tease {
+    max-width: 9rem;
+    text-align: right;
+  }
+
   .board-stage {
-    width: min(100%, 21rem);
+    width: min(100%, 17.75rem);
   }
 
   .board-players {
     justify-content: flex-start;
     flex-wrap: wrap;
+    gap: 0.32rem;
+    font-size: 0.78rem;
+  }
+
+  .board-shell {
+    padding: 0.35rem 0 0.55rem;
+  }
+
+  .board-bottom-copy {
+    gap: 0.08rem;
+  }
+
+  .board-turn-note,
+  .board-unlock-note {
+    font-size: 0.78rem;
+  }
+
+  .live-interaction-card {
+    gap: 0.2rem;
+    padding: 0.72rem 0.8rem;
+    border-radius: 20px;
+  }
+
+  .live-interaction-card strong,
+  .live-interaction-card p,
+  .live-message-bubble p {
+    font-size: 0.9rem;
+  }
+
+  .live-message-layer {
+    gap: 0.45rem;
+  }
+
+  .live-message-bubble {
+    max-width: min(100%, 16rem);
+    padding: 0.64rem 0.78rem 0.7rem;
+    border-radius: 20px;
+  }
+
+  .bubble-composer {
+    gap: 0.35rem;
+    margin-top: 0.1rem;
+  }
+
+  .bubble-composer__field {
+    padding: 0.7rem 0.8rem 0.76rem;
+  }
+
+  .bubble-composer__field textarea {
+    min-height: 2.55rem;
   }
 
   .waiting-playground__copy {
@@ -1847,17 +1970,35 @@ button {
 
   .waiting-playground {
     grid-template-columns: 1fr;
-    min-height: 19rem;
+    min-height: 16.5rem;
+    gap: 0.9rem;
+    padding-bottom: 0.9rem;
   }
 
-  .leave-cluster {
+  .waiting-sheet--minimal h2 {
+    min-height: 2.4em;
+  }
+
+  .waiting-sheet--minimal .lede,
+  .waiting-playground__copy p,
+  .quiet-status p {
+    min-height: 2.8rem;
+  }
+
+  .scribble-actions--entry {
     width: 100%;
-    justify-items: start;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1rem;
   }
 
-  .leave-tease {
-    max-width: none;
-    text-align: left;
+  .scribble-actions--entry .scribble-action {
+    font-size: 1.95rem;
+  }
+
+  .scribble-actions--entry .scribble-link {
+    font-size: 1.42rem;
+    white-space: nowrap;
   }
 
   .live-interaction-layer,
@@ -1879,5 +2020,12 @@ button {
 
   .toast {
     max-width: none;
+  }
+}
+
+@supports (-webkit-touch-callout: none) {
+  .app-shell,
+  .screen {
+    min-height: 100svh;
   }
 }
